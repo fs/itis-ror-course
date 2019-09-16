@@ -93,8 +93,28 @@
 
 ### TDD: Test Driven Development
 
+- Тестирование Ruby и Rails приложений, библиотека RSpec.
+- RSpec + Capybara.
+- Test Driven Development
+
 ### Ruby on Rails: Pro
+
+- Паттерн "Декоратор": библиотека Draper
+- Паттерн "Интерактор": библиотека Interactor
+- Паттерн "PolicyObject": библиотека Pundit
+- Фоновые задачи, создание и управление очередями. Сервис Sidekiq.
+- Сервисы мониторинга ошибок. Сервис Rollbar.
 
 ### API server with Rails
 
+- Создание API-only web-приложений на Ruby on Rails.
+- Библиотека ActiveModelSerializers
+- Rails и REST API.
+- Rails и JSON API.
+- Тестирование API-only web-приложений на Ruby on Rails
+- Документирование API-only web-приложений на Ruby on Rails
+
 ### Front-end: Webpacker + React.js
+
+- Библиотека Webpacker: Поддержка ES6 в Rails.
+- Создание React.js компонентов, взаимодействующих с приложением через API.
